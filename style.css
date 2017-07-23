@@ -48,8 +48,6 @@ form{
   border: 5px solid #ccc;
 }
 
-
-
 .work img{
   max-width: 150px;
   height: 150px;
@@ -72,8 +70,4 @@ form{
 .pics .jumbotron{
   height: 640px;
   width: 700px;
-}
-
-.pics{
-  float: bottom;
 }
